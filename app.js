@@ -4,7 +4,7 @@ const express = require("express");
 const bodyParser = require("body-parser");
 const mongoose = require("mongoose");
 
-mongoose.connect("mongodb://localhost:27017/todolistDB", {usenewUrlParser: true});
+mongoose.connect("mongodb+srv://Cluster27213:Test123@cluster27213.acc5fv8.mongodb.net/todoListDB", {usenewUrlParser: true});
 
 
 const app = express();
