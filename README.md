@@ -34,7 +34,7 @@ A simple yet powerful Todo List application to keep track of your tasks. Built w
 
 ✨ Features
 ➕ Add new todo items.
-✅ Mark todo items as completed.
-❌ Delete todo items.
+✅ Mark todo items as completed and delete.
+📄 to create new list type "/<name>" after url
 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
